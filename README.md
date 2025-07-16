@@ -140,19 +140,19 @@ The frontend will run on http://localhost:3000
 
 # For Admins/Businesses
 
-**1. Registration:** Create a new account at /register
-**2. Login:** Sign in at /login
-**3. Create Form:** Navigate to dashboard and click "Create New Form"
-**4. Add Questions:** Add 3-5 questions with different types (text/multiple-choice)
-**5. Share Form: Copy** the generated public URL to share with customers
-**6. View Responses:** Access the dashboard to view all form submissions
-**7. Export Data:** Download responses as CSV files
+**1. Registration:** Create a new account at /register.
+**2. Login:** Sign in at /login.
+**3. Create Form:** Navigate to dashboard and click "Create New Form".
+**4. Add Questions:** Add 3-5 questions with different types (text/multiple-choice).
+**5. Share Form: Copy** the generated public URL to share with customers.
+**6. View Responses:** Access the dashboard to view all form submissions.
+**7. Export Data:** Download responses as CSV files.
 
 # For Customers/Users
 
-**1. Access Form:** Visit the public URL shared by the business
-**2. Fill Form:** Complete all required fields
-**3. Submit:** Submit the form (no registration required)
+**1. Access Form:** Visit the public URL shared by the business.
+**2. Fill Form:** Complete all required fields.
+**3. Submit:** Submit the form (no registration required).
 
 # API Endpoints
 
@@ -227,33 +227,33 @@ feedback-platform/
 
 # Edge Cases Handled
 
-**1. Form Validation:** Client and server-side validation for all inputs
-**2. Authentication:** JWT expiration and refresh handling
-**3. Error Handling:** Comprehensive error messages and fallback UI
-**4. Loading States:** Loading indicators for all async operations
-**5. Empty States:** Proper handling of empty forms and responses
-**6. Mobile Responsiveness:** Optimized for various screen sizes
-**7. Network Errors:** Graceful handling of network failures
-**8. Duplicate Submissions:** Prevention of duplicate form submissions
+**1. Form Validation:** Client and server-side validation for all inputs.
+**2. Authentication:** JWT expiration and refresh handling.
+**3. Error Handling:** Comprehensive error messages and fallback UI.
+**4. Loading States:** Loading indicators for all async operations.
+**5. Empty States:** Proper handling of empty forms and responses.
+**6. Mobile Responsiveness:** Optimized for various screen sizes.
+**7. Network Errors:** Graceful handling of network failures.
+**8. Duplicate Submissions:** Prevention of duplicate form submissions.
 
 # Future Enhancements
 
-**1. Advanced Analytics:** More detailed response analytics and charts
-**2. Form Templates:** Pre-built form templates for common use cases
-**3. Email Notifications:** Notify admins of new responses
-**4. Conditional Logic:** Dynamic form fields based on previous answers
-**5. File Uploads:** Support for file upload questions
-**6. Multi-language Support:** Internationalization features
-**7. Rate Limiting:** API rate limiting for better security
-**8. Audit Logs:** Track form modifications and access
+**1. Advanced Analytics:** More detailed response analytics and charts.
+**2. Form Templates:** Pre-built form templates for common use cases.
+**3. Email Notifications:** Notify admins of new responses.
+**4. Conditional Logic:** Dynamic form fields based on previous answers.
+**5. File Uploads:** Support for file upload questions.
+**6. Multi-language Support:** Internationalization features.
+**7. Rate Limiting:** API rate limiting for better security.
+**8. Audit Logs:** Track form modifications and access.
 
 # Contributing
 
-**1.** Fork the repository
-**2.** Create a feature branch
-**3.** Make your changes
-**4.** Add tests if applicable
-**5.** Submit a pull request
+**1.** Fork the repository.
+**2.** Create a feature branch.
+**3.** Make your changes.
+**4.** Add tests if applicable.
+**5.** Submit a pull request.
 
 # License
 # This project is licensed under the MIT License.
