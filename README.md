@@ -1,15 +1,17 @@
-Feedback Collection Platform
+# Feedback Collection Platform
 A full-stack web application that enables businesses to create feedback forms and collect responses from customers through public URLs.
-Features
+
+# Features
+
 Admin/Business Features
 
-Authentication: Secure JWT-based registration and login
-Form Creation: Create customizable feedback forms with 3-5 questions
-Question Types: Support for text input and multiple-choice questions
-Share Links: Generate public URLs for form distribution
-Dashboard: View all form responses in tabular format with basic summary statistics
-Export: Download responses as CSV files
-Form Management: Edit and delete existing forms
+* Authentication: Secure JWT-based registration and login
+* Form Creation: Create customizable feedback forms with 3-5 questions
+* Question Types: Support for text input and multiple-choice questions
+* Share Links: Generate public URLs for form distribution
+* Dashboard: View all form responses in tabular format with basic summary statistics
+* Export: Download responses as CSV files
+* Form Management: Edit and delete existing forms
 
 Customer/User Features
 
