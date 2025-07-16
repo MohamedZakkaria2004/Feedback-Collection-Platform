@@ -5,47 +5,47 @@ A full-stack web application that enables businesses to create feedback forms an
 
 # Admin/Business Features
 
-* Authentication: Secure JWT-based registration and login
-* Form Creation: Create customizable feedback forms with 3-5 questions
-* Question Types: Support for text input and multiple-choice questions
-* Share Links: Generate public URLs for form distribution
-* Dashboard: View all form responses in tabular format with basic summary statistics
-* Export: Download responses as CSV files
-* Form Management: Edit and delete existing forms
+* **Authentication:** Secure JWT-based registration and login
+* **Form Creation:** Create customizable feedback forms with 3-5 questions
+* **Question Types:** Support for text input and multiple-choice questions
+* **Share Links:** Generate public URLs for form distribution
+* **Dashboard:** View all form responses in tabular format with basic summary statistics
+* **Export:** Download responses as CSV files
+* **Form Management:** Edit and delete existing forms
 
 # Customer/User Features
 
-* Public Access: Access forms via public URLs without login
-* Form Submission: Submit feedback through an intuitive interface
-* Mobile Responsive: Optimized for mobile devices
+* **Public Access**: Access forms via public URLs without login
+* **Form Submission:** Submit feedback through an intuitive interface
+* **Mobile Responsive:** Optimized for mobile devices
 
 # Tech Stack
 
 # Frontend
 
-* React.js - User interface library
-* React Router - Client-side routing
-* Tailwind CSS - Styling framework
-* Lucide React - Icon library
-* Recharts - Data visualization for dashboard
+* **React.js** - User interface library
+* **React Router** - Client-side routing
+* **Tailwind CSS** - Styling framework
+* **Lucide React** - Icon library
+* **Recharts** - Data visualization for dashboard
 
 # Backend
 
-* Node.js - Runtime environment
-* Express.js - Web framework
-* MongoDB - Database
-* Mongoose - ODM for MongoDB
-* JWT - Authentication
-* bcryptjs - Password hashing
-* CORS - Cross-origin resource sharing
+* **Node.js** - Runtime environment
+* **Express.js** - Web framework
+* **MongoDB** - Database
+* **Mongoose** - ODM for MongoDB
+* **JWT** - Authentication
+* **bcryptjs** - Password hashing
+* **CORS** - Cross-origin resource sharing
 
 # Architecture & Design Decisions
 
 # Database Design
 
-* Users Collection: Stores admin credentials and profile information
-* Forms Collection: Stores form metadata, questions, and configuration
-* Responses Collection: Stores user submissions linked to forms
+* **Users Collection**: Stores admin credentials and profile information
+* **Forms Collection**: Stores form metadata, questions, and configuration
+* **Responses Collection**: Stores user submissions linked to forms
 
 # API Design
 
@@ -73,9 +73,9 @@ A full-stack web application that enables businesses to create feedback forms an
 
 # Prerequisites
 
-* Node.js (v14 or higher)
-* MongoDB (local or cloud instance)
-* npm or yarn package manager
+* **Node.js** (v14 or higher)
+* **MongoDB** (local or cloud instance)
+* **npm** or **yarn package manager**
 
 # Backend Setup
 
