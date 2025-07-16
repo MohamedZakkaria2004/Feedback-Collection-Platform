@@ -79,51 +79,51 @@ A full-stack web application that enables businesses to create feedback forms an
 
 # Backend Setup
 
-1. Navigate to the backend directory:
+# 1. Navigate to the backend directory:
 
-```bash
-cd backend```
+bash
+cd backend
 
-2. Install dependencies:
+# 2. Install dependencies:
 
-```bash
+bash
 npm install
 
-3. Create a .env file in the backend directory:
+# 3. Create a .env file in the backend directory:
 
-```env
+env
 PORT=5000
 MONGODB_URI=mongodb://localhost:27017/feedback-platform
 JWT_SECRET=your-super-secret-jwt-key-here
 NODE_ENV=development
 
-4. Start the backend server:
+# 4. Start the backend server:
 
-```bash
+bash
 npm start
 
 The backend server will run on http://localhost:5000
 
 # Frontend Setup
 
-1. Navigate to the frontend directory:
+# 1. Navigate to the frontend directory:
 
-```bash
+bash
 cd frontend
 
-2. Install dependencies:
+# 2. Install dependencies:
 
-```bash
+bash
 npm install
 
-3. Create a .env file in the frontend directory:
+# 3. Create a .env file in the frontend directory:
 
-```env
+env
 REACT_APP_API_URL=http://localhost:5000/api
 
-4. Start the frontend development server:
+# 4. Start the frontend development server:
 
-```bash
+bash
 npm start
 
 The frontend will run on http://localhost:3000
