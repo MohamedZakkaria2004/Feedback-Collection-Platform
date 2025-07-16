@@ -81,8 +81,8 @@ A full-stack web application that enables businesses to create feedback forms an
 
 1. Navigate to the backend directory:
 
-'''bash
-cd backend'''
+\`\`\`bash
+cd backend\`\`\`
 
 2. Install dependencies:
 
