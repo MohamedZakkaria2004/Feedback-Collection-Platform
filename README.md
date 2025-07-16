@@ -176,7 +176,7 @@ The frontend will run on http://localhost:3000
 * GET /api/responses/export/:formId - Export responses as CSV (admin only)
 
 # Project Structure
-
+```
 feedback-platform/
 ├── backend/
 │   ├── config/
@@ -223,6 +223,7 @@ feedback-platform/
 │   ├── .env
 │   └── package.json
 └── README.md
+```
 
 # Edge Cases Handled
 
