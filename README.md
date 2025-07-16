@@ -141,11 +141,17 @@ The frontend will run on http://localhost:3000
 # For Admins/Businesses
 
 **1. Registration:** Create a new account at /register.
+
 **2. Login:** Sign in at /login.
+
 **3. Create Form:** Navigate to dashboard and click "Create New Form".
+
 **4. Add Questions:** Add 3-5 questions with different types (text/multiple-choice).
+
 **5. Share Form: Copy** the generated public URL to share with customers.
+
 **6. View Responses:** Access the dashboard to view all form submissions.
+
 **7. Export Data:** Download responses as CSV files.
 
 # For Customers/Users
