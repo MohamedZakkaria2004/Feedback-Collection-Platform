@@ -1,7 +1,4 @@
 # 📝 Feedback Collection Platform 📊 
-A full-stack web application that enables businesses to create feedback forms and collect responses from customers through public URLs.
-
-# Feedback Platform - Complete Setup Guide
 
 A full-stack feedback collection platform built with React, Node.js, Express, and MongoDB. This application allows users to create custom feedback forms, collect responses, and export data.
 
